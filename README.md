@@ -1,3 +1,3 @@
-# CNN_model_for_predicting_cat_vs_dog
-This will help you learn how to train a CNN model for predicting between cat and dog. Though this can work for other animals as well. :P 
-This script will work for python version 3 and above.
+# Versatile Image Recognition with Convolutional Neural Networks
+This script offers a roadmap for training a Convolutional Neural Network (CNN) model tailored for image recognition across diverse animal classes. Harnessing the power of deep learning techniques, particularly CNNs, this guide enables the model to adeptly identify intricate featus and patterns within images, facilitating precise classification across a broad spectrum of animal categories. 
+By extending the application beyond cats and dogs, this framework serves as a versatile tool for recognizing and categorizing various animals, showcasing the adaptability of the model in tackling a diverse range of image recognition tasks.
